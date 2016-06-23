@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Blank
+Comment=Blank
+Exec=/home/odroid/andrei/blank.sh
+Hidden=False
+NoDisplay=False
+Terminal=False
